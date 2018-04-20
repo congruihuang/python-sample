@@ -1,1 +1,2 @@
-# python-sample
+# Microsoft Anomaly Detection API: Jupyter Notebook
+This [Jupyter Notebook](<http://jupyter.org/>) demonstrates how to use Python with the Microsoft Anomaly Detection API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services).
